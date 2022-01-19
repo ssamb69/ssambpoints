@@ -70,7 +70,7 @@ h1{
 	display: grid;
 	grid-template-columns: repeat(4, 100px);
 	grid-gap: 5px;
-	grid-template-rows: 100px 400px 100px;
+	grid-template-rows: 100px 400px 100px 100px;
 }
 
 
@@ -173,28 +173,28 @@ h1{
 
 .slythPointText{
 	grid-column: 1;
-	grid-row: 3;
+	grid-row: 4;
   justify-content: center;
 	display: flex;
 }
 
 .ravPointText{
 	grid-column: 2;
-	grid-row: 3;
+	grid-row: 4;
   justify-content: center;
 	display: flex;
 }
 
 .griffPointText{
 	grid-column: 3;
-	grid-row: 3;
+	grid-row: 4;
   justify-content: center;
 	display: flex;
 }
 
 .huffPointText{
 	grid-column: 4;
-	grid-row: 3;
+	grid-row: 4;
 	display: flex;
   justify-content: center;
 }
@@ -203,7 +203,9 @@ h1{
 .txtp{
 	display: flex;
   justify-content: center;
+  vertical-align: middle;
   color: gold;
+  font-size: large;
 }
 
 

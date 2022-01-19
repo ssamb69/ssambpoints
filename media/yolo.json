@@ -1,0 +1,19 @@
+{
+	"users": ["lolo", "monnier", "quik", "darde","loyec"],
+	"houses": ["slytherin", "griffindor", "ravenclaw", "hufflepuff"],
+	"belongs2":{
+		"lolo":"slytherin",
+		"monnier":"slytherin",
+		"quik":"griffindor",
+		"darde":"ravenclaw",
+		"loyec":"hufflepuff"
+	},
+	"points":{
+		"lolo":"50",
+		"monnier":"0",
+		"quik":"50",
+		"darde":"50",
+		"loyec":"100"
+	}
+
+}

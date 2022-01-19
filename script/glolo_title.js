@@ -30,7 +30,7 @@ setInterval(yolo1,400,mod)
 
 
 
-fetch('../media/yolo.json').then(async response => {
+fetch('/media/yolo.json').then(async response => {
 	console.log("Loading data ...")
 	const json = await response.json();
 	console.log("Done")

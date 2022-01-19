@@ -70,7 +70,7 @@ h1{
 	display: grid;
 	grid-template-columns: repeat(4, 100px);
 	grid-gap: 5px;
-	grid-template-rows: 100px 400px, 100px;
+	grid-template-rows: 100px 400px 100px;
 }
 
 
